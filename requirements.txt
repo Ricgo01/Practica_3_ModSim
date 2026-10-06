@@ -1,0 +1,4 @@
+# Dependencias de la Práctica 3 - CC3074 Modelización y Simulación
+# heapq, collections, random, itertools y math son parte de Python estándar.
+matplotlib>=3.8
+ipykernel>=6.29
